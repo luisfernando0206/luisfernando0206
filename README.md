@@ -1,5 +1,8 @@
 ### Olá, seja bem vindo! 👋
 
+Meu nome é Luis Fernando, sou de Santa Catarina Brasil e atuo como Devops Engineer/SRE atualmente. Possuo vários side projects e alguns deles compartilho aqui, estarei frequentemente postando novos códigos e informações para deixar o repositório o mais completo possível.
+
+Minha linguagem principal é Python, mas aqui você vai encontrar Yamls de Kubernetes, Cloudformation e Terraform. 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfernando0206&theme=react" />
 
